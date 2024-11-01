@@ -39,7 +39,10 @@ Learn these fundamental concepts:
 patterns/                 # 20 core patterns with their problems
     ├── 01-two-pointers/
     │   ├── README.md        # Pattern explanation
-    │   └── problems/        # All problems using this pattern
+    │   └── two-sum          # All problems using this pattern
+    |       ├── solution.js  # solutions in different languages
+    |       ├── solution.py
+    |       └── ...
     └── 02-sliding-window/
         └── ...
 ```
